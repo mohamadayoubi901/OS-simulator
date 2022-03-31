@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication105;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mohamad ayoubi A1911244
+ * @author mohamad ayoubi 
  */
 public class JavaApplication105 {
 
